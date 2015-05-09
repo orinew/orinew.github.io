@@ -6,13 +6,18 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: rouge
 
 paginate: 5
+gems:
+- jekyll-mentions
+- jemoji
+- jekyll-redirect-from
+- jekyll-sitemap
 
 title : 哈哈
 tagline: 这是啥
 author :
   name : orinew
   description: 第一次玩博客，试试看
- # email : zhangqi.dev@qq.com
+  email : orinew@qq.com
   github : https://github.com/orinew
  # twitter : http://twitter.com/storm4android
   simple_search: http://google.com/search
