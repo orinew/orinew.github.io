@@ -10,10 +10,10 @@ paginate: 5
 title : 哈哈
 tagline: 这是啥
 author :
-  name : Orinew
+  name : orinew
   description: 第一次玩博客，试试看
  # email : zhangqi.dev@qq.com
-  github : https://github.com/Orinew
+  github : https://github.com/orinew
  # twitter : http://twitter.com/storm4android
   simple_search: http://google.com/search
 
@@ -25,7 +25,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : Orinew.github.io
+production_url : orinew.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
